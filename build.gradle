@@ -14,15 +14,9 @@ dependencies {
     implementation 'junit:junit:4.13.2'
 }
 
+wrapper {
+    gradleVersion = '7.5'
+}
 test {
     useJUnitPlatform()
 }
-
-task("ss") {
-    doLast {
-        println "ss"
-    }
-}
-
-//logging.captureStandardOutput LogLevel.ERROR
-//logging.captureStandardError LogLevel.QUIET

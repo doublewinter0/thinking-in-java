@@ -1,4 +1,4 @@
-package ren.erdong.thkij.polymorphism;
+package me.erdong.thkij.polymorphism;
 
 /**
  * @author erdong at 08:36, 26/05/2021

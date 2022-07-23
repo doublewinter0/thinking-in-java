@@ -1,4 +1,4 @@
-package ren.erdong.thkij.initialization;
+package me.erdong.thkij.initialization;
 
 import java.util.Arrays;
 import java.util.Random;

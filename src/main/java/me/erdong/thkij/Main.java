@@ -1,12 +1,15 @@
-package ren.erdong.thkij.reusing;
+package me.erdong.thkij;
+
+import me.erdong.thkij.reusing.Beetle;
+import me.erdong.thkij.reusing.Insect;
 
 /**
- * @author erdong at 18:19, 21/05/2021
+ * @author erdong at 18:29, 21/05/2021
  */
-public class Beetle extends Insect {
+public class Main extends Insect {
     private int k = printInit("Beetle.k initialized");
 
-    public Beetle() {
+    public Main() {
         System.out.println("k = " + k);
         System.out.println("j = " + j);
     }
@@ -17,5 +20,6 @@ public class Beetle extends Insect {
     public static void main(String[] args) {
         System.out.println("Beetle constructor");
         Beetle b = new Beetle();
+        System.out.println(str);
     }
 }

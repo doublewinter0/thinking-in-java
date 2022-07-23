@@ -1,4 +1,4 @@
-package ren.erdong.thkij.control;
+package me.erdong.thkij.control;
 
 import static java.lang.System.out;
 

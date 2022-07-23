@@ -1,4 +1,4 @@
-package ren.erdong.thkij.reusing;
+package me.erdong.thkij.reusing;
 
 /**
  * @author erdong at 18:17, 21/05/2021

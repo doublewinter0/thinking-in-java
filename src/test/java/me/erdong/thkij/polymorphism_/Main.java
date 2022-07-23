@@ -1,4 +1,4 @@
-package ren.erdong.thkij.polymorphism_;
+package me.erdong.thkij.polymorphism_;
 
 import org.junit.Test;
 

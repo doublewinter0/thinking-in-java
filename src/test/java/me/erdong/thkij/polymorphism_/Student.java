@@ -1,6 +1,6 @@
-package ren.erdong.thkij.polymorphism_;
+package me.erdong.thkij.polymorphism_;
 
-import ren.erdong.thkij.polymorphism.Person;
+import me.erdong.thkij.polymorphism.Person;
 
 /**
  * @author erdong at 07:48, 28/05/2021
