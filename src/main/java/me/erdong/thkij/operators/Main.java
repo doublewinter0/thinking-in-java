@@ -31,7 +31,7 @@ public class Main {
     public void go() {
         int x = 1;
         int y = 2;
-        int z = x = y; // 赋值语句有返回值
+        int z = x = y;
         System.out.println(z);
     }
 }
