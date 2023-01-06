@@ -1,4 +1,4 @@
-package me.erdong.thkij.operators;
+package me.erdong.thkij.operator;
 
 import org.junit.Test;
 

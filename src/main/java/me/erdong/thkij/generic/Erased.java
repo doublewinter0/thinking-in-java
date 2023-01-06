@@ -1,4 +1,4 @@
-package me.erdong.thkij.generics;
+package me.erdong.thkij.generic;
 
 public class Erased<T> {
     private final int SIZE = 100;

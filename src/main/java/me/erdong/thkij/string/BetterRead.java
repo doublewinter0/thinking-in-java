@@ -1,4 +1,4 @@
-package me.erdong.thkij.strings;
+package me.erdong.thkij.string;
 
 import java.io.BufferedReader;
 import java.io.StringReader;

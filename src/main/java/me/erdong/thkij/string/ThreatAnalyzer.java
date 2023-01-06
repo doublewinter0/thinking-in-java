@@ -1,4 +1,4 @@
-package me.erdong.thkij.strings;
+package me.erdong.thkij.string;
 
 import java.util.Scanner;
 import java.util.regex.MatchResult;

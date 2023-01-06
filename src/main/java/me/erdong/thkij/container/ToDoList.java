@@ -1,4 +1,4 @@
-package me.erdong.thkij.containers;
+package me.erdong.thkij.container;
 
 import java.util.PriorityQueue;
 

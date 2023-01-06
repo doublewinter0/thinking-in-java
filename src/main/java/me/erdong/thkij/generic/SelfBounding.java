@@ -1,4 +1,4 @@
-package me.erdong.thkij.generics;
+package me.erdong.thkij.generic;
 
 class SelfBounded<T extends SelfBounded<T>> {
     T element;

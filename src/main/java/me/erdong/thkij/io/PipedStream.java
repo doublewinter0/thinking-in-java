@@ -1,4 +1,4 @@
-package me.erdong.thkij.ios;
+package me.erdong.thkij.io;
 
 import java.io.IOException;
 import java.io.PipedInputStream;

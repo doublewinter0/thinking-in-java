@@ -1,4 +1,4 @@
-package me.erdong.thkij.generics;
+package me.erdong.thkij.generic;
 
 import java.util.Arrays;
 import java.util.List;
